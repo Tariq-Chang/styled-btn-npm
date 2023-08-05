@@ -1,0 +1,20 @@
+{
+  "name": "styled-btns",
+  "version": "1.0.0",
+  "description": "Button with default styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "jsx"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type":"git",
+    "url": "git+https://github.com/Tariq-Chang/styled-btn-npm.git"
+  }
+}
